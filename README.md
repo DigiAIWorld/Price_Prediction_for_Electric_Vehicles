@@ -31,7 +31,7 @@ Data Source on Kaggle: https://www.kaggle.com/kkhandekar/cheapest-electric-cars
 
 The data consists of 180 vehicles and there are some missing values as well. We can conduct various data analytics visualizations to understand the data and information. This gives us an idea about the market as a whole and overall data distribution. Often, this type of data gives insight into the market and lets businesses conduct market research. The electric vehicle market is growing at a fast pace, with proper investment and research, the field can be improved and a higher level of efficiency can be achieved.
 
-### Data Visualization
+### Data Visualization for Electric Vehicles
 
 ![image](https://user-images.githubusercontent.com/43418706/236496298-4777bcbd-da59-4391-973d-b96b68dd1377.png)
 
@@ -47,20 +47,27 @@ Other data visualisations and various types of plots can be made to visualise th
 ## Vehicle KWH Compared with Number of Seats and Drive Type
 ![image](https://user-images.githubusercontent.com/43418706/236497097-bc14dd4b-20b1-44de-bf4f-9b901ac28a70.png)
 
-## the various car manufacturers
+## The various car manufacturers
 ![image](https://user-images.githubusercontent.com/43418706/236497492-cc460735-af95-41c0-87a3-faac201793c2.png)
+
+## With pair plot type
 
 ![image](https://user-images.githubusercontent.com/43418706/236497772-b12ba6d5-ee4e-40f5-a7bc-339ea6933ea7.png)
 
 Various factors contribute to the prices of electric vehicles, a lot of parameters are also to be
-considered to buy electric vehicles. Let us now work on a Machine Learning model which
+considered to buy electric vehicles. Let us now work on a Machine Learning model which[
+](https://digiaiworld.netlify.app/)
 can do the prediction.
 
-## Machine Learning Model For Price Prediction of Electric Vehicles
+## Using Machine Learning Model (Random Forest Reggression) For Price Prediction of Electric Vehicles
 
-We will predict the price of the vehicle based on all the parameters and data, one thing to
+To predict the price of the vehicle based on all the parameters and data, one thing to
 be pointed is that many data points are missing. In, the case of vehicle prices, many vehicles
 have prices just in Pounds, and some have prices just in euros. So, for the sake of simplicity,
 we take only the prices in UK Pound.
+
+## Follow me: 
+Linkedin: https://www.linkedin.com/in/digiaiworld/
+Portfolio: https://digiaiworld.netlify.app/
 
 
