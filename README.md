@@ -67,7 +67,7 @@ considered to buy electric vehicles. Let us now work on a Machine Learning model
 ](https://digiaiworld.netlify.app/)
 can do the prediction.
 
-## Using Machine Learning Model (Random Forest Reggression) For Price Prediction of Electric Vehicles
+## Using Machine Learning Model (Random Forest Regression) For Price Prediction of Electric Vehicles
 
 To predict the price of the vehicle based on all the parameters and data, one thing to
 be pointed is that many data points are missing. In, the case of vehicle prices, many vehicles
