@@ -50,7 +50,7 @@ Other data visualisations and various types of plots can be made to visualise th
 ## The various car manufacturers
 ![image](https://user-images.githubusercontent.com/43418706/236497492-cc460735-af95-41c0-87a3-faac201793c2.png)
 
-We can see that Audi and Tesla have the most types of electric vehicles
+We can see that Audi and Tesla have the most types of electric vehicles.
 
 ### Audi
 
