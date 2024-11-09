@@ -77,7 +77,7 @@ have prices just in Pounds, and some have prices just in euros. So, for the sake
 we take only the prices in UK Pound.
 
 ## Follow me: 
-* Linkedin: https://www.linkedin.com/in/digiaiworld/
-* Portfolio: https://digiaiworld.netlify.app/
+* Linkedin: https://www.linkedin.com/in/kant-ai/
+* Portfolio: https://genrix.netlify.app/
 
 
